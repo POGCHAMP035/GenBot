@@ -39,8 +39,8 @@ module.exports = {
       Nitro: '<a:Booster:853683721734193182>', //Nitro emoji for !help embed
     },
 
-    Token: {
-      Discord: 'Your_discord_bot_token',
+    Token: {OTY0NTQ3NjIzNTk4MDUxNDMw.YlmO-Q.-XVe5Uo1KgIJa7gEbXydD2mKFrw
+      Discord: 'OTY0NTQ3NjIzNTk4MDUxNDMw.YlmO-Q.-XVe5Uo1KgIJa7gEbXydD2mKFrw',
     },
 
     blacklistedUsers: {
